@@ -3,9 +3,6 @@
 # CryptoHome - Introduction
 This project is a web application that displays the top cryptocurrencies in the market. It provides __real-time data__ on prices, market capitalization, trading volume, and other key metrics, making it a useful tool for tracking cryptocurrency trends.
 
-## DEMO Oficial Web
-<video src="/public/DEMO.mp4">
-
 ## Technologies
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
