@@ -1,4 +1,4 @@
-<img src="./public/banner-top.jpg" style="display: flex; margin: auto;">
+<img src="/src/assets/banner-top.jpg" style="display: flex; margin: auto;">
 
 # CryptoHome - Introduction
 This project is a web application that displays the top cryptocurrencies in the market. It provides __real-time data__ on prices, market capitalization, trading volume, and other key metrics, making it a useful tool for tracking cryptocurrency trends.
@@ -36,4 +36,4 @@ Contributions are welcome! If you have any improvements or new features you'd li
 # Licence
 This project is licensed under the MIT License. See the <a href="https://github.com/Gonzaa21/CryptoHome/tree/main?tab=MIT-1-ov-file">LICENSE</a> file for more details.
 
-<img src="./public/banner-bottom.png">
+<img src="/src/assets/banner-bottom.png">

@@ -11,8 +11,8 @@ function Nav() {
             <img src={CryptoNav} alt='CryptoHome image' className='h-12 m-6  max-[768px]:hidden'/>
             <img src={CryptoHome} alt='Crypto image' className='hidden h-10 m-6 max-[768px]:block'/>
             <div className='flex mr-12 items-center'>
-                <button className='flex items-center gap-1 mr-7 bg-violet-100 text-violet-500 rounded-xl h-fit p-2 hover:bg-violet-200 active:bg-violet-300 active:text-violet-700 max-[768px]:text-sm'><RiMoneyDollarCircleLine className='max-[768px]:size-5' size={24}/> USD</button>
-                <button className='flex items-center gap-1 bg-violet-100 text-violet-500 rounded-xl h-fit p-2 hover:bg-violet-200 active:bg-violet-300 active:text-violet-700 max-[768px]:text-sm'>
+                <button className='flex items-center gap-1 mr-7 bg-violet-100 text-violet-400 rounded-xl h-fit p-2 max-[768px]:text-sm'><RiMoneyDollarCircleLine className='max-[768px]:size-5' size={24}/> USD</button>
+                <button className='flex items-center gap-1 bg-violet-100 text-violet-400 rounded-xl h-fit p-2 max-[768px]:text-sm'>
                     <TbWorld className='max-[768px]:size-5' size={24}/>English
                 </button>
             </div>
